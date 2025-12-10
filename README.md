@@ -39,5 +39,3 @@ Skills Demonstrated
 Developer
 Dino Sajan
 Portfolio: https://github.com/dinosajan
-B.Tech – Computer Science & Engineering
-Portfolio: https://github.com/your-github-username
